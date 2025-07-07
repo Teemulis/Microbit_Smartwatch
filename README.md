@@ -1,1 +1,1 @@
-# MakeCode_Smartwatch
+# Microbit-Smartwatch
